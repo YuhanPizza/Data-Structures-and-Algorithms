@@ -7,8 +7,8 @@ Unless otherwise stated, the links below are linked to the start of the chapter 
 
 | Topics and Reading                                                                                                                                                                                                                                                                            | Labs             |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| Introduction, Intro to Python                                                                                                 | Lab 0        |
-| Analysis of Algorithms,Asymptotic Notation                             | Lab 1     |
+| Introduction, Intro to Python and LaTex                                                                                                | Lab 0        |
+| Efficient Algorithms and Time Complexity Analysis                             | Lab 1     |
 | Recursion, Searching, and Sorting                                                                                                                                                       | Lab 2     |
 | Searching and Sorting,  Lists,                                                    | lab 3     |
 | Lists,Stacks, and Queues                                                                                | Lab 4     |
