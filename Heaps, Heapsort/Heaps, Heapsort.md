@@ -1,4 +1,4 @@
-# Lab 5 Reflection and Observations
+# Reflection and Observations
 
 * name of team member 1
 * Lorenz Alvin Tubo
